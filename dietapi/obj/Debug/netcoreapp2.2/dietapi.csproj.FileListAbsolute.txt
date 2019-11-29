@@ -1,0 +1,16 @@
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\dietapi.deps.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\dietapi.runtimeconfig.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\dietapi.runtimeconfig.dev.json
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\dietapi.dll
+C:\Users\shang\source\repos\dietapi\dietapi\bin\Debug\netcoreapp2.2\dietapi.pdb
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.RazorAssemblyInfo.cache
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.RazorAssemblyInfo.cs
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.AssemblyInfoInputs.cache
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.AssemblyInfo.cs
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.RazorTargetAssemblyInfo.cache
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.dll
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.pdb
+C:\Users\shang\source\repos\dietapi\dietapi\obj\Debug\netcoreapp2.2\dietapi.csprojAssemblyReference.cache
